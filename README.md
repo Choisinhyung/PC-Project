@@ -1,5 +1,3 @@
-https://capsule-render.vercel.app/api
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=PC방%20프로젝트&fontSize=60)
 
 # PC-Project
@@ -28,7 +26,7 @@ https://capsule-render.vercel.app/api
 <h2>프로젝트 화면구성 및 기능 설명</h2>
 
 ▶ __회원, 비회원, 관리자-로그인 / 회원가입 / 비밀번호찾기__ <br/>
-<div text-align="center">
+<div align="center">
 <img src="https://user-images.githubusercontent.com/97080437/210288793-62a6baa0-0953-4860-b1e8-993bf675a487.png" width="400" height="200">
 <img src="https://user-images.githubusercontent.com/97080437/210288806-f1e441a0-c691-47c6-9ffc-f40ec030813f.png" width="400" height="200">
 </div>
