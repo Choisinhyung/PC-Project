@@ -29,10 +29,15 @@ GUI와 JDBC를 사용한 PC방 프로젝트
 
 <h2>프로젝트 화면구성 및 기능 설명</h2>
 
-▶ __로그인 / 회원가입__ <br/>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210288793-62a6baa0-0953-4860-b1e8-993bf675a487.png" width="500" height="300"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210288806-f1e441a0-c691-47c6-9ffc-f40ec030813f.png" width="500" height="300"></p>
+▶ __로그인 / 회원가입 / 비밀번호찾기__ <br/>
+<div>
+<img src="https://user-images.githubusercontent.com/97080437/210288793-62a6baa0-0953-4860-b1e8-993bf675a487.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/97080437/210288806-f1e441a0-c691-47c6-9ffc-f40ec030813f.png" width="500" height="300">
+</div>
+<div>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210288825-867192ec-86a1-413e-abcd-19683636f5a8.png" width="500" height="300"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210288918-9ee513b6-d17e-4d1c-b72c-cc874caf6e55.png" width="500" height="300"></p>
+</div>
 
 ▶ __로그인 / 회원가입__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210191949-6614dfa2-6e40-40d1-a6c2-09ac6be4ea9a.png" width="900" height="500"></p>
