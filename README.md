@@ -1,6 +1,6 @@
 https://capsule-render.vercel.app/api
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://PC방 프로젝트.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 # PC-Project
 'GUI'와 'JDBC'를 사용한 PC방 프로젝트입니다. 
