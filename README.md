@@ -1,6 +1,4 @@
 # PC-Project
-GUI와 JDBC를 사용한 PC방 프로젝트
-<h4 align="center">PC방</h4>
 'GUI'와 'JDBC'를 사용한 PC방 프로젝트입니다. 
 <br/>
 
