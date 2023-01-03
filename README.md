@@ -1,7 +1,6 @@
 # PC-Project
 GUI와 JDBC를 사용한 PC방 프로젝트
 <br/><br/>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210049100-93844be1-331c-4631-a734-28a5a2708a4e.jpg" width="200" height="200"></p>
 <h4 align="center">PC방</h4>
 <h1>PC</h1>
 'GUI'와 'JDBC'를 사용한 PC방 프로젝트입니다. 
