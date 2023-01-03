@@ -25,8 +25,9 @@ GUI와 JDBC를 사용한 PC방 프로젝트
 * __Language__
    * Java, Oracle
    
-<h2>시스템 흐름도</h2>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190282-8fba3927-2aad-4419-9520-85b5ddab7818.png" width="800" height="500"></p>
+<h2>유스케이스</h2>
+<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210288719-c97c56dd-1fb4-4d5d-9947-0235258beaec.png" width="700" height="500"></p>
+
 
 <h2>ERD</h2>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210190252-e4c6a342-7d61-4e26-8373-b6c2d4807843.png" width="800" height="500"></p>
