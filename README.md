@@ -38,6 +38,7 @@ GUI와 JDBC를 사용한 PC방 프로젝트
 <img src="https://user-images.githubusercontent.com/97080437/210288825-867192ec-86a1-413e-abcd-19683636f5a8.png" width="500" height="300">
 <img src="https://user-images.githubusercontent.com/97080437/210288918-9ee513b6-d17e-4d1c-b72c-cc874caf6e55.png" width="500" height="300">
 </div>
+<hr/>
 
 ▶ __회원-시간충전__ <br/>
 <div>
