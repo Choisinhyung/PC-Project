@@ -39,8 +39,12 @@ GUI와 JDBC를 사용한 PC방 프로젝트
 <img src="https://user-images.githubusercontent.com/97080437/210288918-9ee513b6-d17e-4d1c-b72c-cc874caf6e55.png" width="500" height="300">
 </div>
 
-▶ __로그인 / 회원가입__ <br/>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210191949-6614dfa2-6e40-40d1-a6c2-09ac6be4ea9a.png" width="900" height="500"></p>
+▶ __회원-시간충전__ <br/>
+<div>
+<img src="https://user-images.githubusercontent.com/97080437/210289013-c4cf2305-5207-424a-9bcf-b404a0bd93a5.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/97080437/210289041-29580a36-7bcf-48a1-851e-a48d83018dd1.png" width="500" height="300">
+</div>
+<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210289059-2d618aaa-9485-48a0-827f-474542ff4812.png" width="500" height="300"></p>
 
 ▶ __카테고리 및 제품 상세페이지__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210191984-1d391de8-da4a-4046-b3c7-ca917ddcb6fd.png" width="700" height="500"></p>
