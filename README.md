@@ -29,8 +29,8 @@ https://capsule-render.vercel.app/api
 
 ▶ __회원, 비회원, 관리자-로그인 / 회원가입 / 비밀번호찾기__ <br/>
 <div>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210288793-62a6baa0-0953-4860-b1e8-993bf675a487.png" width="500" height="300"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210288806-f1e441a0-c691-47c6-9ffc-f40ec030813f.png" width="500" height="300"></p>
+<img src="https://user-images.githubusercontent.com/97080437/210288793-62a6baa0-0953-4860-b1e8-993bf675a487.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/97080437/210288806-f1e441a0-c691-47c6-9ffc-f40ec030813f.png" width="500" height="300">
 </div>
 <div>
 <img src="https://user-images.githubusercontent.com/97080437/210288825-867192ec-86a1-413e-abcd-19683636f5a8.png" width="500" height="300">
