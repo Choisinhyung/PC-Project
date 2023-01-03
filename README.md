@@ -29,7 +29,7 @@ GUI와 JDBC를 사용한 PC방 프로젝트
 
 <h2>프로젝트 화면구성 및 기능 설명</h2>
 
-▶ __로그인 / 회원가입 / 비밀번호찾기__ <br/>
+▶ __회원, 비회원-로그인 / 회원가입 / 비밀번호찾기__ <br/>
 <div>
 <img src="https://user-images.githubusercontent.com/97080437/210288793-62a6baa0-0953-4860-b1e8-993bf675a487.png" width="500" height="300">
 <img src="https://user-images.githubusercontent.com/97080437/210288806-f1e441a0-c691-47c6-9ffc-f40ec030813f.png" width="500" height="300">
@@ -38,6 +38,7 @@ GUI와 JDBC를 사용한 PC방 프로젝트
 <img src="https://user-images.githubusercontent.com/97080437/210288825-867192ec-86a1-413e-abcd-19683636f5a8.png" width="500" height="300">
 <img src="https://user-images.githubusercontent.com/97080437/210288918-9ee513b6-d17e-4d1c-b72c-cc874caf6e55.png" width="500" height="300">
 </div>
+<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210289222-df11870c-4730-43bf-838b-3fafb5870017.png" width="500" height="300"></p>
 <hr/>
 
 ▶ __회원-시간충전__ <br/>
@@ -46,11 +47,19 @@ GUI와 JDBC를 사용한 PC방 프로젝트
 <img src="https://user-images.githubusercontent.com/97080437/210289041-29580a36-7bcf-48a1-851e-a48d83018dd1.png" width="500" height="300">
 </div>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210289059-2d618aaa-9485-48a0-827f-474542ff4812.png" width="500" height="300"></p>
+<hr/>
 
-▶ __카테고리 및 제품 상세페이지__ <br/>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210191984-1d391de8-da4a-4046-b3c7-ca917ddcb6fd.png" width="700" height="500"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210192106-2d5405ba-d320-4754-a43e-3d13d3d5c590.png" width="300" height="300"></p>
-
+▶ __회원-상품주문__ <br/>
+<div>
+<img src="https://user-images.githubusercontent.com/97080437/210289167-c907b55d-1637-4cfe-8361-5b40f7f92885.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/97080437/210289173-6d6b8f26-93b0-4687-8e1c-7b1a5d2a7fba.png" width="500" height="300">
+</div>
+<div>
+<img src="https://user-images.githubusercontent.com/97080437/210289185-58ae1893-3539-4d6b-9114-09fc0ccf041d.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/97080437/210289189-65f82f04-ba29-4b64-9725-5259925c112a.png" height="300">
+</div>
+<p align="center"><img src="https://user-images.githubusercontent.com/97080437/210289199-300857a6-15f8-4150-8529-bd17fcffbe5f.png" width="500" height="300"></p>
+<hr/>
 
 ▶ __제품 구매__ <br/>
 <p align="center"><img src="https://user-images.githubusercontent.com/97080437/210192164-3136e770-553c-4730-8224-ae3cffe51232.png" width="700" height="500"></p>
