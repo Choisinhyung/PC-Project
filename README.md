@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=PC방%20프로젝트&fontSize=60)
 
 # PC-Project
-'GUI'와 'JDBC'를 사용한 PC방 프로젝트입니다. 
+'GUI'와 'JDBC'를 사용한 PC방 미니프로젝트입니다. 
+개발 소요 기간 : 2022-09-06 ~ 2022-09-13 (7일)
 <br/>
 
 <h2>목차</h2>
